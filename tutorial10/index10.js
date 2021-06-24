@@ -7,6 +7,8 @@ num1 = parseInt(num1,10);
 
 num2 = parseInt(num2,10);
 
+mul = parseInt();
+
 var sum ,sub;
 
 sum = num1 +num2 ;
