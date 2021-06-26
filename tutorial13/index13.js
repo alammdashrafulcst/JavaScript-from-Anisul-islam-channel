@@ -16,9 +16,9 @@ console.log (num1<num2);    // true
 
 console.log (20<20);      // false 
 
-console.log(20>= 20);  // true 
+console.log(20>= 20);  // true ******
 
-console.log(20<= 20);   // true 
+console.log(20<= 20);   // true *****
 
 
 console.log(20 == "20");    // true ...because two == will check only value , it will not check data type 
